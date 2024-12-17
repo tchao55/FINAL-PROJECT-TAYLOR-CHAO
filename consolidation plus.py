@@ -1,7 +1,7 @@
 import random
 import time  # Import time module for timing analysis and delays
 
-def 
+def roll_dice():
     """
     Rolls three six-sided dice and returns their values as a tuple.
     
