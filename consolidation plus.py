@@ -131,4 +131,4 @@ def start_game():
     print("\nGame results have been saved to 'game_results.txt'.")
 
 # Start the game
-
+start_game()
