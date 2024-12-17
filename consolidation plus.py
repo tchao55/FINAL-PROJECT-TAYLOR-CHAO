@@ -30,7 +30,7 @@ def check_dice(dice):
         return "fixed"  # A pair of dice are the same (fixed).
     return "none"  # No special conditions (none).
 
-def 
+def play_turn(player_id, turn_number):
     """
     Simulates a single turn of a player in the game. The player rolls dice, checks for conditions,
     and decides whether to reroll or stop.
