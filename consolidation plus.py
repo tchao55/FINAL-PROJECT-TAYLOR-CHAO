@@ -10,7 +10,7 @@ def roll_dice():
     """
     return (random.randint(1, 6), random.randint(1, 6), random.randint(1, 6))
 
-def 
+def check_dice(dice):
     """
     Checks the dice roll to determine the state: if a player has 'tupled out' or has 'fixed' dice.
     
